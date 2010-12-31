@@ -1,0 +1,8 @@
+.DS_Store
+nbproject/
+HD/
+*.mpg
+*.avi
+*.WMV
+*.ogv
+*.torrent
