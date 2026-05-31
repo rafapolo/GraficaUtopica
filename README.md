@@ -1,8 +1,10 @@
 # Gráfica Utópica
 
-Coletivo de arte multimídia carioca fundado em 2011, com exposição no [Museu Nacional de Belas Artes (MNBA)](https://www.gov.br/museus/pt-br/museus-ibram/mnba), Rio de Janeiro.
+![Gráfica Utópica](web/1.jpg)
 
-🌐 [graficautopica.github.io/GraficaUtopica](https://rafapolo.github.io/GraficaUtopica/)
+Coletivo de arte multimídia carioca, com exposição no [Museu Nacional de Belas Artes (MNBA)](https://www.gov.br/museus/pt-br/museus-ibram/mnba), Rio de Janeiro.
+
+🌐 [rafapolo.github.io/GraficaUtopica](https://rafapolo.github.io/GraficaUtopica/)
 
 ## Projetos
 
@@ -22,4 +24,4 @@ Trabalho em vídeo e fotografia — tríptico que investiga o bloqueio, o desvio
 
 ## Arquivo
 
-Este repositório preserva o arquivo digital do coletivo, incluindo imagens, vídeos e o site original (diretório [`preview/`](preview/index.htm)).
+Este repositório preserva o arquivo digital do coletivo, incluindo imagens, vídeos e o site original ([index.htm](index.htm)).
