@@ -1,6 +1,6 @@
 # Gráfica Utópica
 
-Coletivo de arte multimídia fundado em 2011.
+Coletivo de arte multimídia carioca fundado em 2011, com exposição no Museu Nacional de Belas Artes (MNBA), Rio de Janeiro.
 
 ## Projetos
 
