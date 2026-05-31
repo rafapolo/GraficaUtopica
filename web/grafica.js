@@ -7,7 +7,7 @@ $(document).ready(function(){
 
 	// preload
 	var capa = $("#capa")
-	capa.on('load', function(){
+	capa.load(function(){
 		capa.css("position", "absolute").css("opacity", 1)
 		.css("visibility", "visible")
 		.css("top", (window.innerHeight / 2) - (capa.height() / 2))
@@ -35,7 +35,8 @@ $(document).ready(function(){
 				loadImg.src = "fotos/"+e+"/thumb/"+x+".jpg"
 			}
 		}
-	}).each(function(){ if(this.complete) $(this).trigger('load'); });
+	});
+	if(capa[0].complete) capa.trigger('load');
 
 	function embedVideo(id){
 		var embed = '<div class="video"><iframe id="video-'+id+'" src="http://player.vimeo.com/video/'+id+'?byline=0&amp;portrait=0" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe></div>';
